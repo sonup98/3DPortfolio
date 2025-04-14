@@ -34,7 +34,7 @@ const Hero = () => {
                 </span>
               </h1>
               <h1>into real projects</h1>
-              <h1>that deliver projects</h1>
+              <h1>that deliver Results</h1>
             </div>
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
               Hi, I’m Sonu, a Web developer.
